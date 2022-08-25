@@ -1,7 +1,7 @@
 {
   "name": "yt-react",
   "version": "0.1.0",
-  "homepage": "yt-react/public/index.html",
+  "homepage": "yt-react/public/",
   "private": true,
   "dependencies": {
     "@testing-library/jest-dom": "^5.16.5",
