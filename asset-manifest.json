@@ -1,15 +1,15 @@
 {
   "files": {
-    "main.css": "/yt-react/public/static/css/main.76be887d.css",
-    "main.js": "/yt-react/public/static/js/main.8267de3b.js",
-    "static/js/787.f0e5a625.chunk.js": "/yt-react/public/static/js/787.f0e5a625.chunk.js",
-    "index.html": "/yt-react/public/index.html",
-    "main.76be887d.css.map": "/yt-react/public/static/css/main.76be887d.css.map",
-    "main.8267de3b.js.map": "/yt-react/public/static/js/main.8267de3b.js.map",
-    "787.f0e5a625.chunk.js.map": "/yt-react/public/static/js/787.f0e5a625.chunk.js.map"
+    "main.css": "/yt-react/static/css/main.76be887d.css",
+    "main.js": "/yt-react/static/js/main.9f5c0e24.js",
+    "static/js/787.f0e5a625.chunk.js": "/yt-react/static/js/787.f0e5a625.chunk.js",
+    "index.html": "/yt-react/index.html",
+    "main.76be887d.css.map": "/yt-react/static/css/main.76be887d.css.map",
+    "main.9f5c0e24.js.map": "/yt-react/static/js/main.9f5c0e24.js.map",
+    "787.f0e5a625.chunk.js.map": "/yt-react/static/js/787.f0e5a625.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.76be887d.css",
-    "static/js/main.8267de3b.js"
+    "static/js/main.9f5c0e24.js"
   ]
 }
