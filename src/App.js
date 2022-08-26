@@ -20,6 +20,9 @@ function App() {
           DIEGO R
         </a>
       </header>
+      <div className="hero">
+        <h1>HERO PAGE</h1>
+      </div>
     </div>
   );
 }

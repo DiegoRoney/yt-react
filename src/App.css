@@ -36,3 +36,15 @@
     transform: rotate(360deg);
   }
 }
+
+.hero{
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: #2f0044;
+  width: 100%;
+  height: 100vh;
+  background: url(../public/img/pexels-aleksandar-pasaric-325185.jpg) no-repeat;
+  background-size: cover; 
+}
