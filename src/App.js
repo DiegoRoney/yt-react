@@ -21,7 +21,7 @@ function App() {
         </a>
       </header>
       <div className="hero">
-        <h1>HERO PAGE</h1>
+        <h1>HERO PAGE!</h1>
       </div>
     </div>
   );
